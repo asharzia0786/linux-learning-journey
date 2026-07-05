@@ -1,0 +1,14 @@
+Day 1 Practice
+
+Commands I learned:
+pwd
+ls
+cd
+mkdir
+touch
+cp
+mv
+rm
+nano
+
+Linux is becoming less scary.
