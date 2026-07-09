@@ -1,0 +1,14 @@
+logs-lab/logs/app.log:ERROR Database Connection Lost
+logs-lab/logs/app.log:ERROR Disk Full
+logs-lab/logs/app.log:ERROR Authentication Failed
+logs-lab/logs/error_report.txt:logs-lab/logs/app.log:ERROR Database Connection Lost
+logs-lab/logs/error_report.txt:logs-lab/logs/app.log:ERROR Disk Full
+logs-lab/logs/error_report.txt:logs-lab/logs/app.log:ERROR Authentication Failed
+logs-lab/logs/error_report.txt:logs-lab/logs/error.log:ERROR Database Timeout
+logs-lab/logs/error_report.txt:logs-lab/logs/error.log:ERROR Disk Full
+logs-lab/logs/error_report.txt:logs-lab/logs/error.log:ERROR Permission Denied
+logs-lab/logs/error_report.txt:logs-lab/logs/error.log:ERROR Authentication Failed
+logs-lab/logs/error.log:ERROR Database Timeout
+logs-lab/logs/error.log:ERROR Disk Full
+logs-lab/logs/error.log:ERROR Permission Denied
+logs-lab/logs/error.log:ERROR Authentication Failed

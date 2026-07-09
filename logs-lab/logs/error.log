@@ -1,0 +1,6 @@
+ERROR Database Timeout
+ERROR Disk Full
+ERROR Permission Denied
+ERROR Authentication Failed
+WARNING High Memory Usage
+INFO Service Restarted

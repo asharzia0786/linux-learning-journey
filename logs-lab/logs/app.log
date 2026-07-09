@@ -1,0 +1,20 @@
+INFO Application Started
+INFO Database Connected
+WARNING Memory Usage High
+INFO User Login
+ERROR Database Connection Lost
+INFO Retrying Connection
+INFO Connection Restored
+INFO User Logout
+WARNING CPU Usage High
+INFO Backup Started
+INFO Backup Completed
+ERROR Disk Full
+INFO Cleaning Cache
+INFO Cache Cleared
+INFO User Login
+INFO File Uploaded
+ERROR Authentication Failed
+INFO Restarting Service
+INFO Service Running
+INFO Application Healthy
